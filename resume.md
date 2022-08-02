@@ -1,5 +1,5 @@
 ---
-title: "C'thulhu Resume"
+title: "My Awesome Resume"
 layout: resume
 ---
 
